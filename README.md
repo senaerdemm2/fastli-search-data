@@ -9,9 +9,9 @@ Files
 
 ## Usage
 1. Clone the repository bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/senaerdemm2/fastli-search-data.git
 
-2.Open Jupyter Lab
+ 2.Open Jupyter Lab
 jupyter lab
 
-3.Run scraper.ipynb to fetch the data again if needed 
+ 3.Run scraper.ipynb to fetch the data again if needed 
